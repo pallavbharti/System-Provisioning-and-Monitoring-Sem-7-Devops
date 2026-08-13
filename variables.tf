@@ -1,3 +1,4 @@
+//varuiable file for the terraform script
 variable "region" {
   description = "AWS region in which the instance is created"
   type        = string
